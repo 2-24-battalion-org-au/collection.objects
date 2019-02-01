@@ -1,0 +1,15 @@
+{
+    "id": "2018-09-25T11:59:44.579738",
+    "object.record.created": "2018-09-25T11:59:44.579738",
+    "object.record.updated": "2018-09-25T12:04:13.891968",
+    "object.type": "Book",
+    "object.title": "The War Diaries of Weary Dunlop",
+    "object.size": "paperback",
+    "object.description": " Diary of Java and Burma Railway, 450pp",
+    "object.keywords": "diary, Dunlop, Burma Rialway,  WW2",
+    "object.manufacture.date": "1986",
+    "object.maker.name": "Penguin",
+    "object.manufacture.location": "Ringwood Vic",
+    "condition.status": "fair",
+    "storage.location": "ajd-library"
+}

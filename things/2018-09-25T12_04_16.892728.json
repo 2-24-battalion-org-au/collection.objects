@@ -1,0 +1,16 @@
+{
+    "id": "2018-09-25T12:04:16.892728",
+    "object.record.created": "2018-09-25T12:04:16.892728",
+    "object.record.updated": "2018-09-25T12:09:49.283818",
+    "object.type": "Book",
+    "object.title": "New Guinea 1942-44",
+    "object.size": "A5+",
+    "object.description": " hard cover, fly cover, 225pp, text and photos\nAuthor: Timothy Hall",
+    "object.keywords": "New Guinea, WW2, South-West Pacific ",
+    "object.markings": " ",
+    "object.maker.name": "Methuen",
+    "object.manufacture.location": "Sydney",
+    "object.manufacture.date": "1981",
+    "condition.status": "good",
+    "storage.location": "ajd-library"
+}

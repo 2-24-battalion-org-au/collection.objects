@@ -1,0 +1,17 @@
+{
+    "id": "2018-09-25T11:26:19.684534",
+    "object.record.created": "2018-09-25T11:26:19.684534",
+    "object.record.updated": "2018-09-25T11:31:40.079455",
+    "object.type": "Book",
+    "object.title": "Khaki and Green",
+    "object.size": "A4",
+    "object.description": " hard cover with fly, 200pp\n2 copies",
+    "object.keywords": "Alamein, Libya, Darwin, New Guinea, WW2",
+    "object.origin": "",
+    "object.manufacure.materials": "",
+    "object.maker.name": "AWM, Halstea Press",
+    "object.manufacture.location": "Sydney",
+    "object.manufacture.date": "1943",
+    "condition.status": "mint",
+    "storage.location": "wilson storage"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2018-09-25T11:19:45.990133",
+    "object.record.created": "2018-09-25T11:19:45.990133",
+    "object.record.updated": "2018-09-25T11:26:14.494165",
+    "object.type": "Book",
+    "object.title": "Jareungle Warf",
+    "object.size": "A4",
+    "object.description": " 200 pp hard cover, no fly cover New Guinea",
+    "object.keywords": "New Guinea, South West Pacific",
+    "object.markings": " ",
+    "object.origin": "Halstead Press Pty Ltd",
+    "object.manufacture.date": "1944",
+    "object.manufacture.location": "Melbourne",
+    "object.maker.name": "",
+    "object.acquisition.source": "donation",
+    "condition.status": "good",
+    "storage.location": "wilson storage"
+}

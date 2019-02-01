@@ -1,0 +1,19 @@
+{
+    "id": "2018-09-25T12:34:22.586666",
+    "object.record.created": "2018-09-25T12:34:22.586666",
+    "object.record.updated": "2018-09-25T12:40:41.889187",
+    "object.type": "Book",
+    "object.title": "Australians at War: A Pictorial History",
+    "object.size": "A4+",
+    "object.description": " hard cover, text and pictures, 360pp",
+    "object.keywords": "WW1, WW2",
+    "object.markings": " Alastair Davison May 08",
+    "object.maker.name": "The Five Mile Press",
+    "object.manufacture.location": "Noble Park",
+    "object.manufacture.date": "2002",
+    "object.acquisition.source": "donation",
+    "object.acquisition.from": "Alastair Davison",
+    "object.acquisition.date": "2010",
+    "condition.status": "good",
+    "storage.location": "ajd-library"
+}

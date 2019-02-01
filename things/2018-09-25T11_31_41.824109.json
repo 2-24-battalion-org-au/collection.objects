@@ -1,0 +1,15 @@
+{
+    "id": "2018-09-25T11:31:41.824109",
+    "object.record.created": "2018-09-25T11:31:41.824109",
+    "object.record.updated": "2018-09-25T11:34:15.303737",
+    "object.type": "Book",
+    "object.title": "Stand Easy",
+    "object.size": "A4",
+    "object.description": " hard cover, no fly, 200pp",
+    "object.keywords": "post war, Japan, surrender, South West Pacific",
+    "object.maker.name": "Halstead Press",
+    "object.manufacture.location": "Sydney",
+    "object.manufacture.date": "1945",
+    "condition.status": "good",
+    "storage.location": "wilson storage"
+}

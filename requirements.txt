@@ -1,0 +1,6 @@
+#pyjwt==1.5.2
+#google-auth
+#requests
+#requests-toolbelt
+firebase-admin
+click

@@ -1,0 +1,15 @@
+{
+    "id": "2018-09-25T12:25:51.457300",
+    "object.record.created": "2018-09-25T12:25:51.457300",
+    "object.record.updated": "2018-09-25T12:34:21.232542",
+    "object.type": "Book",
+    "object.title": "Somme Mud",
+    "object.size": "paperbsizeack ",
+    "object.description": "paperback, 350pp\nnovel",
+    "object.keywords": "WW1, France",
+    "object.maker.name": "Random House",
+    "object.manufacture.location": "Sydney",
+    "object.manufacture.date": "2006",
+    "condition.status": "good",
+    "storage.location": "ajd-library"
+}

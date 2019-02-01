@@ -1,0 +1,19 @@
+{
+    "id": "2018-09-25T14:25:52.896900",
+    "object.record.created": "2018-09-25T14:25:52.896900",
+    "object.record.updated": "2018-09-25T14:31:39.667046",
+    "object.type": "Book",
+    "object.title": "Wingate Adventure",
+    "object.size": "19 x 25",
+    "object.description": "hardback, 188pp, text,\nauthor: W G Burchett ",
+    "object.keywords": "Wingate, WW2, Burma",
+    "object.markings": " stamp of FRank E robins - Hon Sec ",
+    "object.history": " ",
+    "object.maker.name": "F W Cheshire Pty Ltd",
+    "object.manufacture.location": "Melbourne",
+    "object.manufacture.date": "1944",
+    "object.acquisition.source": "donation",
+    "object.acquisition.from": "Estate given to Shrine - excess to 2/24",
+    "condition.status": "fair",
+    "storage.location": "ajd-library"
+}

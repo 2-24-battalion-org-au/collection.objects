@@ -1,0 +1,15 @@
+{
+    "id": "2018-09-25T14:31:57.911545",
+    "object.record.created": "2018-09-25T14:31:57.911545",
+    "object.record.updated": "2018-09-25T14:33:22.653207",
+    "object.type": "book",
+    "object.title": "My story - general peter cosgrove",
+    "object.markings": " isbn 0-8322-8384-1",
+    "object.size": "240x160x50",
+    "object.manufacure.materials": "hardback book",
+    "storage.location": "ajd",
+    "condition.status": "mint",
+    "object.acquisition.source": "donation",
+    "object.acquisition.from": "Janice Young",
+    "object.manufacture.date": "2006"
+}
